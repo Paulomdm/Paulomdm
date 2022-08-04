@@ -2,9 +2,9 @@
 
 - meu nome e paulo junor
 - estou enteressado a aprender a progamar
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- estou aprendendo a fazer jogos
+- 💞️ estou procurando a colaborar nas aulas pensamento computacional
+- 📫 como chegar ate mim pelas redes sociais @pj_ff007
 
 <!---
 Paulomdm/Paulomdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
