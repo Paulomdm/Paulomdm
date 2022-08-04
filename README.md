@@ -3,7 +3,7 @@
 - meu nome e paulo junor
 - estou enteressado a aprender a progamar
 - estou aprendendo a fazer jogos
-- 💞️ estou procurando a colaborar nas aulas pensamento computacional
+- 💞️ estou procurando a colaborar no brazino
 - 📫 como chegar ate mim pelas redes sociais @pj_ff007
 
 <!---
